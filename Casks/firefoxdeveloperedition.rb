@@ -1,6 +1,6 @@
 cask :v1 => 'firefoxdeveloperedition' do
-  version '35.0a2'
-  sha256 'ee13e28aa50c0bc6c58f86bbd2f2a8b4fef3a71aeb5536b4b80f131e93a463db'
+  version '40.0a2'
+  sha256 '391040253a50c3aa11234093df3ca07c8acb139bf61b74063d7053039715428b'
 
   url "https://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-aurora/firefox-#{version}.en-US.mac.dmg"
   homepage 'https://www.mozilla.org/en-US/firefox/developer/'
